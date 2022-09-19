@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "lvm4net"]
-	path = lvm4net
-	url = https://github.com/igollini/lvm4net
-	shallow = true
-	registered = true
 [submodule "tailloss"]
 	path = tailloss
 	url = https://github.com/igollini/tailloss
