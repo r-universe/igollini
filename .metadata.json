@@ -1,10 +1,10 @@
 [
   {
-    "package": "lvm4net",
+    "package": "tailloss",
     "oncran": true
   },
   {
-    "package": "tailloss",
+    "package": "lvm4net",
     "oncran": true
   }
 ]
