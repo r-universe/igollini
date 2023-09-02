@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lvm4net"]
-	path = lvm4net
-	url = https://github.com/igollini/lvm4net
 [submodule "tailloss"]
 	path = tailloss
 	url = https://github.com/igollini/tailloss
